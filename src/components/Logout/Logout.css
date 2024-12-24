@@ -1,0 +1,19 @@
+.Logoutcontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.Logoutcontent{
+    text-align: center;
+}
+
+.Logoutcontent h1{
+    font-size: 24px;
+    margin-bottom: 16px;
+}
+
+.Logoutcontent p{
+    font-size: 16px;
+    color: grey ;
+}
